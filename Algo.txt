@@ -2,3 +2,5 @@
 2. decide what pizza to order
 3. contact and place order
 4. wait for pizza
+5. enjoy
+6. throw trash away
